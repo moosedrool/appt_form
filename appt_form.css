@@ -1,4 +1,4 @@
-<style type="text/css"> .form-label-left{ width:400px; } .form-line{ padding-top:10px; padding-bottom:10px; } .form-label-right{ width:400px; } .form-all{ width:400px; color:rgb(38, 122, 135) !important; font-family:'Helvetica'; font-size:14px; } .form-radio-item label, .form-checkbox-item label, .form-grading-label, .form-header{ color: #282828; } </style> <style type="text/css" id="form-designer-style"> /* Injected CSS Code */
+.form-label-left{ width:400px; } .form-line{ padding-top:10px; padding-bottom:10px; } .form-label-right{ width:400px; } .form-all{ width:400px; color:rgb(38, 122, 135) !important; font-family:'Helvetica'; font-size:14px; } .form-radio-item label, .form-checkbox-item label, .form-grading-label, .form-header{ color: #282828; } </style> <style type="text/css" id="form-designer-style"> /* Injected CSS Code */
 .form-all:after { content: ""; display: table; clear: both;
 }
 .form-all { font-family: "Helvetica", sans-serif;
@@ -534,5 +534,4 @@ li[data-type="control_image"] img { border: none; border-width: 0px !important; 
 } select#input_6 { position : relative !important;
 } div#cid_6::before { z-index : 1; background : transparent !important; height : 30px !important; top : 25px !important;
 } div#cid_6::after { top : 38px !important; right : 8px !important;
-} /* Injected CSS Code */
-</style>
+}
