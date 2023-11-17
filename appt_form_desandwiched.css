@@ -530,8 +530,4 @@ li[data-type="control_image"] img { border: none; border-width: 0px !important; 
 } .form-all .form-submit-button { margin-top : -20px; font-weight : bold;
 } .form-dropdown { font-size : 14px; font-weight : normal;
 } .form-textbox-validate { color : #2e2b82;
-} div#cid_6 { position : static !important;
-} select#input_6 { position : relative !important;
-} div#cid_6::before { z-index : 1; background : transparent !important; height : 30px !important; top : 25px !important;
-} div#cid_6::after { top : 38px !important; right : 8px !important;
-}
+} 
